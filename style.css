@@ -106,7 +106,7 @@ img{
 .centertext .para1 h1{
 	font-family: 'Roboto', sans-serif;
 	font-size: 60px;
-	margin-top : 51px;
+	margin-top : 55px;
 	line-height: 129px;
 	font-weight: 900;
 
@@ -427,7 +427,7 @@ line-height : 27px;
 .centered{
 	position: absolute;
 	font-size: 20px;
-	top: 545%;
+	top: 550%;
 	left: 67%;
 	transform: translate(-100%, -50%);
 	
