@@ -589,8 +589,11 @@ justify-content: center;
 		   margin-top: 10px;
 	  }
 	  #footer p{
-		margin-top: 15px;
-		font-size: 20px;
+		margin-left: 20px;
+		color: #1e7a46;
+		font-weight: 400;
+		font-size: 18px;
+		text-transform: uppercase;
 	}
 
 	  .social{
