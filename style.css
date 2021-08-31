@@ -123,7 +123,7 @@ img{
 .para1 button{
 	padding: 15px 25px 14px 25px;
 	margin-left : 283px;
-	font-size : 20px;
+	font-size : 13px;
 	margin-top : 64px;
 	padding-top : 17px;
 	border-radius: 8px;
@@ -135,7 +135,7 @@ img{
 	border-bottom-style : inset;
 	border-bottom-color : rgb(255, 255, 255);
 	color: #ededec;
-	background-color: #3c8a22;
+	background-color:#43d114;
 	letter-spacing: 1px;
 
 	
