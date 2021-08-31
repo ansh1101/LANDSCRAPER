@@ -436,11 +436,27 @@ line-height : 27px;
 	font-size: 40px;
 	margin-left: 150px;
 	margin-bottom: 40px;
+	position: relative;
 }
-
-
-.centered p{
-	margin-bottom:50px;
+ 
+.centered h1::before{
+	content: "";
+	position: absolute;
+	width: 27%;
+	height: 99px;
+	bottom: -13px;
+	left: 22%;
+	border-bottom: 3px solid rgb(236, 236, 236);
+	
+}
+.centered .testimonialpara{
+	font-size : 15px;
+line-height : 29px;
+margin-top : 7px;
+margin-left : -32px;
+margin-right : -57px;
+padding-left : 0px;
+padding-right : 0px;
 }
 
 /* contact */
