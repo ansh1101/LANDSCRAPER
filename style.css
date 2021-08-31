@@ -430,7 +430,7 @@ line-height : 27px;
 	top: 4050px;
 	left: 67%;
 	transform: translate(-100%, -60%);
-	
+	line-height : 45px;
 }
 .centered h1{
 	font-size: 40px;
